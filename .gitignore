@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.venv/
+# created when the notebook runs
+data_cache/
+artifacts/
+report_figures/
+*.zip
